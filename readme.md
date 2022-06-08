@@ -3,11 +3,9 @@
 - 🔥 I'm studying Delphi, PHP, Java (Android) all time
 - 🐾 I have 5 cats
 
-##
-
 <div>
   <h3>Contacts:</h3>
-  <a href="luizedupp@gmail.com"><img
+  <a href="mailto:luizedupp@gmail.com"><img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       target="_blank"></a>
   <a href="https://www.linkedin.com/in/luizedupp" target="_blank"><img
@@ -15,7 +13,7 @@
       target="_blank"></a>
   </a>
 </div>
-##
+
 
 <div>
   <h3>Skills:</h3>
