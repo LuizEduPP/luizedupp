@@ -21,7 +21,7 @@
   <div style="display: inline_block">
   <br>
     <p align="left">
-      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img
+      <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="csharp"
         width="40" height="40" /> </a>
       <a href="https://developer.android.com" target="_blank" rel="noreferrer">
