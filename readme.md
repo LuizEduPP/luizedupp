@@ -103,13 +103,13 @@
         alt="typescript" width="40" height="40" />
       </a>
   </div>
-  ##
+  
 
   <div>
     <img height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=LuizEduPP&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
+      src="https://github-readme-stats.vercel.app/api?username=LuizEduPP&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
     <img height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEduPP&layout=compact&langs_count=7&theme=merko" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEduPP&layout=compact&langs_count=7&theme=onedark" />
   </div>
   <div style="display: inline_block">
     <img align="center" src="github-contribution-grid-snake.svg">
