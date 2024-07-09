@@ -1,6 +1,6 @@
 ### Hello, I'm Luiz Eduardo 👋
-- 👩‍💻 I'm a Web Developer
-- 🔥 I'm studying React, Delphi, PHP, Java and other languages all time
+- 👩‍💻 I'm a Full Stack Developer
+- 🔥 I'm studying React, Delphi, PHP, Java, C# and other languages all time
 - 🐾 I have 5 cats
 
 <div>
