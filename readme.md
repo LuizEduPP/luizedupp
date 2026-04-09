@@ -17,7 +17,7 @@ São Paulo & Santa Catarina, Brasil
 
 ## About
 
-Full Stack Developer com foco crescente em **Inteligência Artificial** — construindo agentes, pipelines LLM e automações inteligentes. Atualmente na **JExperts**, desenvolvendo com Java, React e IA aplicada.
+Full Stack Developer com foco crescente em **Inteligência Artificial** — construindo agentes, pipelines LLM e automações inteligentes. Focado em IA aplicada.
 
 ```text
 Linguagens favoritas  →  TypeScript · Java · Python
