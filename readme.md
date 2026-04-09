@@ -40,11 +40,6 @@ DevOps                →  Docker · GitHub Actions · Firebase
 ## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LuizEduPP&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&bg_color=0d1117&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEduPP&layout=compact&hide_border=true&title_color=58A6FF&text_color=8b949e&bg_color=0d1117&langs_count=8" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuizEduPP&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
 </div>
 
