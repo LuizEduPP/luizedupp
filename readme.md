@@ -1,12 +1,12 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Olá! Eu sou o Luiz Eduardo
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Luiz%20Eduardo&fontSize=80&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Code%20Enthusiast%20|%20Tech%20Explorer&descAlignY=55&descSize=20" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Luiz%20Eduardo&fontSize=80&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20Tech%20Explorer&descAlignY=55&descSize=20" alt="Header" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&lines=🚀+Full+Stack+Developer;💻+React+Specialist;☕+Java+Expert;🔧+Problem+Solver;🌟+Open+Source+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=700&lines=🚀+Full+Stack+Developer;🤖+AI+Engineer;💻+React+%26+Java+Specialist;🧠+LLM+%26+Automation+Builder;🌟+Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,9 +16,10 @@
 
 ```javascript
 const luizEduardo = {
-    👨‍💻 cargo: "Desenvolvedor Full Stack",
-    📍 localização: "Santa Catarina, Brasil",
-    🚀 tecnologiasAtuais: ["React", "Java", "Spring Boot", "Node.js", "Python"],
+    👨‍💻 cargo: "Desenvolvedor Full Stack & AI Engineer",
+    📍 localização: ["São Paulo", "Santa Catarina", "Brasil"],
+    🚀 tecnologiasAtuais: ["React", "Java", "Spring Boot", "Node.js", "Python", "IA"],
+    🤖 focoAtual: ["LLMs", "Agentes de IA", "Automação Inteligente"],
     ⚡ funFact: "Debugo melhor com café ☕",
     🎮 hobbies: ["Codar", "Games", "Música"]
 };
@@ -36,7 +37,7 @@ const luizEduardo = {
   
 | 🏢 Empresa | 💼 Cargo | 📅 Período |
 |:---:|:---:|:---:|
-| **JExperts** | <img src="https://img.shields.io/badge/Desenvolvedor_Java/React-FF6B6B?style=for-the-badge&logo=react&logoColor=white&labelColor=ED8B00"/> | `Set 2024 - Presente` |
+| **JExperts** | <img src="https://img.shields.io/badge/Desenvolvedor_Java%2FReact_%2B_IA-FF6B6B?style=for-the-badge&logo=react&logoColor=white&labelColor=ED8B00"/> | `Set 2024 - Presente` |
 | **SEFAZ SC** | <img src="https://img.shields.io/badge/Desenvolvedor_.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> | `Abr 2024 - Set 2024` |
 | **Independente** | <img src="https://img.shields.io/badge/Full_Stack_Dev-00D9FF?style=for-the-badge&logo=stackoverflow&logoColor=white"/> | `Mar 2023 - Mar 2024` |
 
@@ -45,7 +46,7 @@ const luizEduardo = {
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,cs,php,python,react,nextjs,nodejs,spring,laravel,dotnet,mongodb,mysql,postgres,git,firebase,android&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,cs,php,python,react,nextjs,nodejs,spring,laravel,dotnet,mongodb,mysql,postgres,git,docker,firebase&theme=dark&perline=9" />
 </div>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Languages & Frameworks
@@ -68,9 +69,9 @@ const luizEduardo = {
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000&color=FFFFFF"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A&color=61DAFB"/>
   <br/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=06B6D4&color=0284C7"/>
   <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34C26&color=E54C26"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6&color=2965F1"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=563D7C&color=7952B3"/>
 </div>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Backend Power
@@ -82,6 +83,27 @@ const luizEduardo = {
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=6DB33F&color=8BC34A)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20&color=FF4B4B)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=512BD4&color=6C40D8)
+
+</div>
+
+### 🤖 Inteligência Artificial
+
+<div align="center">
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white)
+
+</div>
+
+### ☁️ DevOps & Cloud
+
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
