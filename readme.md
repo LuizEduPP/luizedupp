@@ -2,53 +2,72 @@
 
 # Luiz Eduardo
 
-**Full Stack Developer · AI Engineer**  
-São Paulo & Santa Catarina, Brasil
+**Full-stack developer** — Java · React · TypeScript · Python
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+products+with+React+%26+Java;Engineering+AI+agents+%26+LLM+pipelines;From+idea+to+production+%E2%80%94+fast)](https://git.io/typing-svg)
+São Paulo, Brazil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizedupp)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:luizedupp@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=LuizEduPP&style=flat-square&color=58A6FF&label=views)](https://github.com/LuizEduPP)
+[![Email](https://img.shields.io/badge/Email-luizedupp@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:luizedupp@gmail.com)
 
 </div>
 
 ---
 
-## About
+I build **production web systems** and **open-source developer tools** — REST APIs, React front ends, and backends that ship and stay maintainable.
 
-Full Stack Developer com foco crescente em **Inteligência Artificial** — construindo agentes, pipelines LLM e automações inteligentes. Focado em IA aplicada.
+- **What I build:** enterprise full-stack apps, MCP tooling, browser extensions, embedded firmware, CLI utilities  
+- **What I care about:** clean architecture, fail-fast code, docs you can actually run, tools that solve real friction  
+- **Core stack:** Java · React · TypeScript · Spring Boot · Node.js · Python · PostgreSQL  
+
+---
+
+## Currently working on
+
+- **[rememb](https://github.com/LuizEduPP/Rememb)** — persistent memory layer for AI agents (MCP server, [PyPI](https://pypi.org/project/rememb/))  
+- **[cats-shields](https://github.com/LuizEduPP/cats-shields)** — Chrome MV3 extension with keyword-based image filtering  
+- **[esp-projects](https://github.com/LuizEduPP/esp-projects)** — ESP32 firmware monorepo (PlatformIO + Yarn)  
+
+---
+
+## Featured projects
+
+| | Project | What it does |
+|---|---------|--------------|
+| 🧠 | [**rememb**](https://github.com/LuizEduPP/Rememb) | Solves context loss in AI workflows — local-first memory via MCP for Cursor, Claude & co. `Python · FastAPI · SQLite` |
+| 🐱 | [**cats-shields**](https://github.com/LuizEduPP/cats-shields) | Blocks unwanted images by keyword and replaces them with bundled cat photos. `Vanilla JS · Chrome MV3` |
+| 📟 | [**esp-projects**](https://github.com/LuizEduPP/esp-projects) | Board-scoped firmware apps — arcade games, emulators, build/flash scripts. `C · C++ · PlatformIO` |
+| 🖨️ | [**e5s1-gcode-postprocess**](https://github.com/LuizEduPP/e5s1-gcode-postprocess) | Machine-specific G-code tuning hooked into PrusaSlicer exports. `Python · stdlib only` |
+
+---
+
+## Tech stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,ts,js,react,nodejs,spring,python,postgres,git,docker,fastapi&theme=dark&perline=6" alt="Java, TypeScript, React, Node, Spring, Python, Postgres, Git, Docker, FastAPI" />
+</div>
 
 ```text
-Linguagens favoritas  →  TypeScript · Java · Python
-Stack principal       →  React · Spring Boot · Node.js
-IA & Automação        →  LangChain · OpenAI · Ollama · Agentes
-Bancos de dados       →  PostgreSQL · MongoDB · MySQL · Oracle
-DevOps                →  Docker · GitHub Actions · Firebase
+Backend     Java · Spring Boot · Node.js · Python · FastAPI · REST APIs
+Frontend    React · TypeScript · JavaScript
+Data        PostgreSQL · Oracle · SQLite
+DevOps      Git · Docker · GitHub Actions
+Also        Chrome extensions · ESP32 · MCP · Android (historical)
 ```
 
 ---
 
-## Tech Stack
+## GitHub activity
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,python,cs,react,nextjs,nodejs,spring,dotnet,laravel,tailwind,docker,postgres,mongodb,mysql,git,firebase&theme=dark&perline=9" />
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuizEduPP&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuizEduPP&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuizEduPP&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub streak" height="165" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>SP · SC · Brasil</sub>
+  <sub>
+    <a href="mailto:luizedupp@gmail.com">luizedupp@gmail.com</a> ·
+    <a href="https://www.linkedin.com/in/luizedupp">linkedin.com/in/luizedupp</a> ·
+    <a href="https://github.com/LuizEduPP/Rememb">rememb</a>
+  </sub>
 </div>
