@@ -25,8 +25,8 @@ I build **production web systems** and **open-source developer tools** — REST 
 
 - **[NeuraEdge](https://github.com/LuizEduPP/NeuraEdge)** — local-first PKM as a living 3D brain (Electron · Three.js · on-device AI)  
 - **[Citepane](https://github.com/LuizEduPP/Citepane)** — selected text → grounded AI in the Chrome side panel (your model, your endpoint)  
-- **[solid](https://github.com/LuizEduPP/solid)** — iterative deep research with an evidence score you can trust (self-hostable · any OpenAI-compatible LLM · UI in 7 languages)  
-- **[rememb](https://github.com/LuizEduPP/Rememb)** — persistent memory layer for AI agents (MCP server, [PyPI](https://pypi.org/project/rememb/))  
+- **[Solid](https://github.com/LuizEduPP/solid)** — iterative deep research with an evidence score you can trust (self-hostable · any OpenAI-compatible LLM · UI in 7 languages)  
+- **[Rememb](https://github.com/LuizEduPP/Rememb)** — persistent memory layer for AI agents (MCP server, [PyPI](https://pypi.org/project/rememb/))  
 
 ---
 
@@ -36,10 +36,10 @@ I build **production web systems** and **open-source developer tools** — REST 
 |---|---------|--------------|
 | 🧠 | [**NeuraEdge**](https://github.com/LuizEduPP/NeuraEdge) | Drop a note — watch it become a neuron. Local-first PKM with a 3D brain, on-device classify/embed, and semantic synapses. `Electron · Three.js · Transformers.js · SQLite` |
 | 📎 | [**Citepane**](https://github.com/LuizEduPP/Citepane) | Highlight text → grounded answers in the Chrome side panel. Research, writing, translate — your OpenAI-compatible endpoint. `Vanilla JS · Chrome MV3` |
-| 🔬 | [**solid**](https://github.com/LuizEduPP/solid) | Plan → search → read → score → repeat until the evidence holds up. Follow-up in the same thread — evidence you can trust, not optimistic confidence. `TypeScript · React · Hono · Node.js` |
-| 🧩 | [**rememb**](https://github.com/LuizEduPP/Rememb) | Solves context loss in AI workflows — local-first memory via MCP for Cursor, Claude & co. `Python · FastAPI · SQLite` |
-| 🐱 | [**cats-shields**](https://github.com/LuizEduPP/cats-shields) | Blocks unwanted images by keyword and replaces them with bundled cat photos. `Vanilla JS · Chrome MV3` |
-| 📟 | [**esp-projects**](https://github.com/LuizEduPP/esp-projects) | Board-scoped firmware apps — arcade games, emulators, build/flash scripts. `C · C++ · PlatformIO` |
+| 🔬 | [**Solid**](https://github.com/LuizEduPP/solid) | Plan → search → read → score → repeat until the evidence holds up. Follow-up in the same thread — evidence you can trust, not optimistic confidence. `TypeScript · React · Hono · Node.js` |
+| 🧩 | [**Rememb**](https://github.com/LuizEduPP/Rememb) | Solves context loss in AI workflows — local-first memory via MCP for Cursor, Claude & co. `Python · FastAPI · SQLite` |
+| 🐱 | [**Cats Shields**](https://github.com/LuizEduPP/cats-shields) | Blocks unwanted images by keyword and replaces them with bundled cat photos. `Vanilla JS · Chrome MV3` |
+| 📟 | [**Esp Projects**](https://github.com/LuizEduPP/esp-projects) | Board-scoped firmware apps — arcade games, emulators, build/flash scripts. `C · C++ · PlatformIO` |
 
 ---
 
