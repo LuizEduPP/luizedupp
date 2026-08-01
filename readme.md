@@ -54,7 +54,7 @@ Backend     Java · Spring Boot · Node.js · Python · FastAPI · REST APIs
 Frontend    React · TypeScript · JavaScript
 Data        PostgreSQL · Oracle · SQLite
 DevOps      Git · Docker · GitHub Actions
-Also        Electron · Three.js · Chrome extensions · ESP32 · MCP · Android (historical)
+Also        Electron · Three.js · Chrome extensions · ESP32 · MCP · Android
 ```
 
 ---
