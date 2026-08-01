@@ -37,6 +37,7 @@ I build **production web systems** and **open-source developer tools** — REST 
 | 🧠 | [**NeuraEdge**](https://github.com/LuizEduPP/NeuraEdge) | Drop a note — watch it become a neuron. Local-first PKM with a 3D brain, on-device classify/embed, and semantic synapses. `Electron · Three.js · Transformers.js · SQLite` |
 | 📎 | [**Citepane**](https://github.com/LuizEduPP/Citepane) | Highlight text → grounded answers in the Chrome side panel. Research, writing, translate — your OpenAI-compatible endpoint. `Vanilla JS · Chrome MV3` |
 | 🔬 | [**Solid**](https://github.com/LuizEduPP/solid) | Plan → search → read → score → repeat until the evidence holds up. Follow-up in the same thread — evidence you can trust, not optimistic confidence. `TypeScript · React · Hono · Node.js` |
+| 🤖 | [**Companion**](https://github.com/LuizEduPP/companion) | AI-powered virtual assistant for the desktop. `TypeScript · React · Node.js` |
 | 🧩 | [**Rememb**](https://github.com/LuizEduPP/Rememb) | Solves context loss in AI workflows — local-first memory via MCP for Cursor, Claude & co. `Python · FastAPI · SQLite` |
 | 🐱 | [**Cats Shields**](https://github.com/LuizEduPP/cats-shields) | Blocks unwanted images by keyword and replaces them with bundled cat photos. `Vanilla JS · Chrome MV3` |
 | 📟 | [**Esp Projects**](https://github.com/LuizEduPP/esp-projects) | Board-scoped firmware apps — arcade games, emulators, build/flash scripts. `C · C++ · PlatformIO` |
@@ -73,6 +74,9 @@ Also        Electron · Three.js · Chrome extensions · ESP32 · MCP · Android
     <a href="https://www.linkedin.com/in/luizedupp">linkedin.com/in/luizedupp</a> ·
     <a href="https://github.com/LuizEduPP/NeuraEdge">NeuraEdge</a> ·
     <a href="https://github.com/LuizEduPP/Citepane">Citepane</a> ·
+    <a href="https://github.com/LuizEduPP/cats-shields">cats-shields</a> ·
+    <a href="https://github.com/LuizEduPP/esp-projects">esp-projects</a> ·
+    <a href="https://github.com/LuizEduPP/companion">companion</a> ·
     <a href="https://github.com/LuizEduPP/solid">solid</a> ·
     <a href="https://github.com/LuizEduPP/Rememb">rememb</a>
   </sub>
