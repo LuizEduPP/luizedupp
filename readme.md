@@ -26,6 +26,7 @@ I build **production web systems** and **open-source developer tools** — REST 
 - **[NeuraEdge](https://github.com/LuizEduPP/NeuraEdge)** — local-first PKM as a living 3D brain (Electron · Three.js · on-device AI)  
 - **[Citepane](https://github.com/LuizEduPP/Citepane)** — selected text → grounded AI in the Chrome side panel (your model, your endpoint)  
 - **[Solid](https://github.com/LuizEduPP/solid)** — iterative deep research with an evidence score you can trust (self-hostable · any OpenAI-compatible LLM · UI in 7 languages)  
+- **[Companion](https://github.com/LuizEduPP/companion)** — AI-powered virtual assistant for the desktop (TypeScript · React · Node.js)  
 - **[Rememb](https://github.com/LuizEduPP/Rememb)** — persistent memory layer for AI agents (MCP server, [PyPI](https://pypi.org/project/rememb/))  
 
 ---
