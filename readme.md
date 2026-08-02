@@ -49,11 +49,3 @@ Data        PostgreSQL · Oracle · SQLite
 DevOps      Git · Docker · GitHub Actions
 Also        Electron · Three.js · Chrome extensions · ESP32 · MCP · Android
 ```
-
----
-
-## GitHub activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuizEduPP&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub streak" height="165" />
-</div>
