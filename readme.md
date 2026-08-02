@@ -26,7 +26,7 @@ I build **production web systems** and **open-source developer tools** — REST 
 | | Project | What it does |
 |---|---------|--------------|
 | 🧠 | [**NeuraEdge**](https://github.com/LuizEduPP/NeuraEdge) | Drop a note. Watch it become a neuron. Local-first PKM as a living 3D brain. `Electron · Three.js · Transformers.js · SQLite` |
-| 💬 | [**toole**](https://github.com/LuizEduPP/Toole) | Chat that can use tools — in the Chrome side panel, on your model. `Vanilla JS · Chrome MV3` |
+| 💬 | [**Toole**](https://github.com/LuizEduPP/Toole) | Chat that can use tools — in the Chrome side panel, on your model. `Vanilla JS · Chrome MV3` |
 | 📎 | [**Citepane**](https://github.com/LuizEduPP/Citepane) | Selected text → grounded AI in the Chrome side panel. Your model, your endpoint. `Vanilla JS · Chrome MV3` |
 | 🔬 | [**Solid**](https://github.com/LuizEduPP/solid) | Iterative deep research with evidence scoring (solidness). Plan → search → read → score → repeat. `TypeScript · React · Hono · Node.js` |
 | 🤖 | [**Companion**](https://github.com/LuizEduPP/Companion) | A luminous presence on your desktop — watches the PC, thinks with your model, speaks when it matters. `Electron · Node.js · OpenAI-compatible` |
