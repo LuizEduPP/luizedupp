@@ -21,21 +21,12 @@ I build **production web systems** and **open-source developer tools** — REST 
 
 ---
 
-## Currently working on
-
-- **[NeuraEdge](https://github.com/LuizEduPP/NeuraEdge)** — local-first PKM as a living 3D brain (Electron · Three.js · on-device AI)  
-- **[Citepane](https://github.com/LuizEduPP/Citepane)** — selected text → grounded AI in the Chrome side panel (your model, your endpoint)  
-- **[Solid](https://github.com/LuizEduPP/solid)** — iterative deep research with an evidence score you can trust (self-hostable · any OpenAI-compatible LLM · UI in 7 languages)  
-- **[Companion](https://github.com/LuizEduPP/companion)** — AI-powered virtual assistant for the desktop (TypeScript · React · Node.js)  
-- **[Rememb](https://github.com/LuizEduPP/Rememb)** — persistent memory layer for AI agents (MCP server, [PyPI](https://pypi.org/project/rememb/))  
-
----
-
 ## Featured projects
 
 | | Project | What it does |
 |---|---------|--------------|
 | 🧠 | [**NeuraEdge**](https://github.com/LuizEduPP/NeuraEdge) | Drop a note — watch it become a neuron. Local-first PKM with a 3D brain, on-device classify/embed, and semantic synapses. `Electron · Three.js · Transformers.js · SQLite` |
+| 💬 | [**Toole**](https://github.com/LuizEduPP/toole) | Chat that can use tools — in the Chrome side panel, on your model. `Vanilla JS · Chrome MV3` |
 | 📎 | [**Citepane**](https://github.com/LuizEduPP/Citepane) | Highlight text → grounded answers in the Chrome side panel. Research, writing, translate — your OpenAI-compatible endpoint. `Vanilla JS · Chrome MV3` |
 | 🔬 | [**Solid**](https://github.com/LuizEduPP/solid) | Plan → search → read → score → repeat until the evidence holds up. Follow-up in the same thread — evidence you can trust, not optimistic confidence. `TypeScript · React · Hono · Node.js` |
 | 🤖 | [**Companion**](https://github.com/LuizEduPP/companion) | AI-powered virtual assistant for the desktop. `TypeScript · React · Node.js` |
@@ -67,18 +58,3 @@ Also        Electron · Three.js · Chrome extensions · ESP32 · MCP · Android
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuizEduPP&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub streak" height="165" />
 </div>
 
----
-
-<div align="center">
-  <sub>
-    <a href="mailto:luizedupp@gmail.com">luizedupp@gmail.com</a> ·
-    <a href="https://www.linkedin.com/in/luizedupp">linkedin.com/in/luizedupp</a> ·
-    <a href="https://github.com/LuizEduPP/NeuraEdge">NeuraEdge</a> ·
-    <a href="https://github.com/LuizEduPP/Citepane">Citepane</a> ·
-    <a href="https://github.com/LuizEduPP/cats-shields">cats-shields</a> ·
-    <a href="https://github.com/LuizEduPP/esp-projects">esp-projects</a> ·
-    <a href="https://github.com/LuizEduPP/companion">companion</a> ·
-    <a href="https://github.com/LuizEduPP/solid">solid</a> ·
-    <a href="https://github.com/LuizEduPP/Rememb">rememb</a>
-  </sub>
-</div>
