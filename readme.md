@@ -1,25 +1,54 @@
+<div align="center">
+
 # Luiz Eduardo
 
-São Paulo, Brazil.
+### Inference on the machines you already own
 
-I build AI that runs on the machines you already have. Paying an API for every token is expensive. Running a full model on one box is often too heavy. My work sits in that gap: local models, tools that talk to *your* endpoint, and systems that split inference across computers.
+Paying an API for every token is expensive. Running a full model on one box is too heavy. I build the path between those two: tools that talk to *your* endpoint, and one model split across the computers you already have.
 
-[LinkedIn](https://www.linkedin.com/in/luizedupp) · [luizedupp@gmail.com](mailto:luizedupp@gmail.com)
+São Paulo, Brazil
 
-## AI
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizedupp)
+[![Email](https://img.shields.io/badge/luizedupp@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizedupp@gmail.com)
+[![nodo](https://img.shields.io/badge/nodo-mesh_inference-111111?style=for-the-badge)](https://github.com/LuizEduPP/nodo)
 
-| Project | What it is |
+</div>
+
+<p align="center">
+  <a href="https://github.com/LuizEduPP/nodo">
+    <img src="nodo.jpg" alt="nodo — worldwide mesh inference" width="920">
+  </a>
+</p>
+
+<div align="center">
+
+## [nodo](https://github.com/LuizEduPP/nodo) — several computers, one model
+
+Each disk keeps the part it created. A prompt walks the machines that are up: `embed → banks → head`. Weights do not travel.
+
+Protocol `nodo/1`. In test. Everyone can contribute.
+
+**[Open nodo →](https://github.com/LuizEduPP/nodo)**
+
+</div>
+
+## What I ship
+
+| | |
 | --- | --- |
-| [nodo](https://github.com/LuizEduPP/nodo) | Mesh inference. Each machine keeps its part of the model. A prompt walks the machines that are up. `Python` |
-| [Rememb](https://github.com/LuizEduPP/Rememb) | Persistent memory for agents. Local, portable, MCP. `Python · FastAPI · SQLite` |
-| [Solid](https://github.com/LuizEduPP/solid) | Iterative research with evidence scoring. Plan, search, read, score, repeat. `TypeScript · React · Hono` |
-| [NeuraEdge](https://github.com/LuizEduPP/NeuraEdge) | Local notes as a 3D brain. `Electron · Three.js · Transformers.js · SQLite` |
-| [Toole](https://github.com/LuizEduPP/Toole) | Chat that can use tools, in the Chrome side panel, on your model. `Chrome MV3` |
-| [Citepane](https://github.com/LuizEduPP/Citepane) | Selected text to grounded answers in the side panel. Your model, your endpoint. `Chrome MV3` |
-| [Companion](https://github.com/LuizEduPP/Companion) | Desktop presence that watches the machine and speaks when it matters. `Electron · OpenAI-compatible` |
+| **[Rememb](https://github.com/LuizEduPP/Rememb)** | Agents forget. Rememb does not. Local file, MCP, zero config. Cursor, Windsurf, Claude. |
+| **[Solid](https://github.com/LuizEduPP/solid)** | Research that scores its own evidence before it trusts a source. |
+| **[NeuraEdge](https://github.com/LuizEduPP/NeuraEdge)** | Drop a note. Watch it become a neuron. Local PKM as a 3D brain. |
+| **[Toole](https://github.com/LuizEduPP/Toole)** | Chat that can use tools, in the Chrome side panel, on the model you run. |
+| **[Citepane](https://github.com/LuizEduPP/Citepane)** | Select text. Get a grounded answer. Your model, your endpoint. |
+| **[Companion](https://github.com/LuizEduPP/Companion)** | A presence on the desktop. Watches the machine. Speaks when it matters. |
 
-## Also
+Also: [Cats Shields](https://github.com/LuizEduPP/cats-shields) blocks images by keyword. [Esp Projects](https://github.com/LuizEduPP/esp-projects) is firmware for ESP boards.
 
-[Cats Shields](https://github.com/LuizEduPP/cats-shields) — block images by keyword. [Esp Projects](https://github.com/LuizEduPP/esp-projects) — firmware for ESP boards.
+<div align="center">
 
-Java, TypeScript, Python, React, Spring, Node, FastAPI, PostgreSQL, Docker, Electron, MCP.
+Want a machine on the mesh, a local stack, or someone who ships this class of product?
+
+**[luizedupp@gmail.com](mailto:luizedupp@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/luizedupp)**
+
+</div>
